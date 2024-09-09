@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 💻📱 I'm a Software Engineer with a special interest in Mobile Development and 3D Modeling. I enjoy creating innovative solutions and bringing ideas to life, whether it's enhancing Mobile App Code or exploring the dynamic world of 3D models integrated with Frontend Applications.
+- 💻📱 I'm a Software Engineer with a special interest in Backend Development and 3D Modeling. I enjoy creating innovative solutions and bringing ideas to life, whether it's enhancing Mobile App Performance or exploring the dynamic world of 3D models integrated with Frontend Applications.
 
 <h2 align="left">Let's Connect:</h2>
 <p align="left">
