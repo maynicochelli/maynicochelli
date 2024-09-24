@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Maya 👻</h1>
-<h2 align="center">Software Engineer - FullStack</h2>
+<h2 align="center">Software Engineer - FullStack Developer</h2>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
